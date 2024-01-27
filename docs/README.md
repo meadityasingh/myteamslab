@@ -1,5 +1,5 @@
 
-![alt text](https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/002/559/original/terraform.jpg)
+![alt text](https://github.com/meadityasingh/myteamslab/blob/main/docs/images/terraform.jpg)
 
 
 # Headline
